@@ -4,11 +4,7 @@
 
 Completly **free** simple admin template starter for React. 
 
-Only **core functionalities** in order to avoid huge refactor/cleaning. 
 
-**Ready to start new project**, small amount of dependencies, easy configuration, modern and fast. 
-
-Created by https://foreach.pl trainers for training participants. 
 
 **Check also Cheatsheets:**
 
